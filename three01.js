@@ -3,6 +3,8 @@
 //
 "use strict"; // 厳格モード
 
+import * as THREE from 'three'
+
 // ３Ｄページ作成関数の定義
 function init() {
   // シーン作成
